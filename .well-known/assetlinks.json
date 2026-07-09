@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.akbarialy496_ux.twa",
+        "sha256_cert_fingerprints": ["73:C2:C9:F2:57:A9:B6:F0:40:4B:74:0F:C2:AB:39:D7:34:C0:6C:C7:91:2D:D0:65:E9:57:89:A5:78:18:48:DE"]
+      }
+    }]
